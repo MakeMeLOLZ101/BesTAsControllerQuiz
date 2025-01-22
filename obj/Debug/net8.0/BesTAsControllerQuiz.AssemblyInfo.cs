@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BesTAsControllerQuiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43890eb1734850e72cc3190e1e69df66429e6aac")]
 [assembly: System.Reflection.AssemblyProductAttribute("BesTAsControllerQuiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BesTAsControllerQuiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

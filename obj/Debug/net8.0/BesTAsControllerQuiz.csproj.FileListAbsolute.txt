@@ -30,3 +30,4 @@ C:\Users\ianch\OneDrive\Documents\CODESTACK\LEVEL 2\quizes\BesTAsControllerQuiz\
 C:\Users\ianch\OneDrive\Documents\CODESTACK\LEVEL 2\quizes\BesTAsControllerQuiz\obj\Debug\net8.0\BesTAsControllerQuiz.pdb
 C:\Users\ianch\OneDrive\Documents\CODESTACK\LEVEL 2\quizes\BesTAsControllerQuiz\obj\Debug\net8.0\BesTAsControllerQuiz.genruntimeconfig.cache
 C:\Users\ianch\OneDrive\Documents\CODESTACK\LEVEL 2\quizes\BesTAsControllerQuiz\obj\Debug\net8.0\ref\BesTAsControllerQuiz.dll
+C:\Users\ianch\OneDrive\Documents\CODESTACK\LEVEL 2\quizes\BesTAsControllerQuiz\obj\Debug\net8.0\BesTAsControllerQuiz.sourcelink.json
