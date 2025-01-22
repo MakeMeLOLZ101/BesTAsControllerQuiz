@@ -11,6 +11,11 @@ namespace BesTAsControllerQuiz.Controllers
     [Route("[controller]")]
     public class SayHelloTwo : ControllerBase
     {
-        
+        [HttpGet]
+        [Route("GetName")]
+        public string SayHelloAgain(string idName)
+        {
+            return $"Heylo, {idName}";
+        }
     }
 }
